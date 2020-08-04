@@ -1,0 +1,21 @@
+
+button {
+  margin-left: 35px;
+  margin-right: 35px;
+  width: 52px;
+  height: 52px;
+  border-radius: 25px;
+  color: aliceblue;
+  font-size: xx-large;
+  cursor: pointer;
+}
+
+.minus {
+  background-color: red;
+  border: none;
+}
+
+.plus {
+  background-color: blue;
+  border: none;
+}

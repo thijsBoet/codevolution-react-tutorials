@@ -1,5 +1,5 @@
 {
-  "name": "10-presentation",
+  "name": "11-video-player",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -14,8 +14,7 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject",
-    "start-deck": "mdx-deck src/deck/deck.mdx"
+    "eject": "react-scripts eject"
   },
   "eslintConfig": {
     "extends": "react-app"
@@ -31,8 +30,5 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  },
-  "devDependencies": {
-    "mdx-deck": "^4.1.1"
   }
 }
