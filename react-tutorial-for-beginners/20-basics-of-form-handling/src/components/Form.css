@@ -1,0 +1,13 @@
+label {
+  display: block;
+}
+
+form {
+  width: 80vw;
+}
+
+input, textarea, select, button {
+  width: 100%;
+  border: 1px solid orange;
+}
+
